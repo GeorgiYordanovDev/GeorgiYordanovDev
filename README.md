@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgiYordanovDev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning advanced python
+- 🌱 I’m currently learning advanced Javascript
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me: georgimyordanov07@gmail.com
 
